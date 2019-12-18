@@ -1,0 +1,31 @@
+.container {
+    padding-top: 20px;
+}
+
+.card-fixed {
+    height: 210px;
+}
+
+.card.add-item:hover {
+    background-color: #eeeeee;
+}
+
+.pointer {
+    cursor:pointer;
+}
+
+a, a:hover, a:focus {
+    text-decoration: none;
+}
+.deco-none {
+    color:#000000 !important;
+    text-decoration:none;
+}
+
+.margin-top-20 {
+    margin-top: 20px;
+}
+
+.margin-bottom-20 {
+    margin-bottom: 20px;
+}
